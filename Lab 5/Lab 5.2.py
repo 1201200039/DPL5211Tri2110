@@ -1,0 +1,11 @@
+#student id: 1201200039
+#student name: Tan Jiue Hong
+
+fruits = ["apple", "banana", "cherry"]
+student = ["Chong Qin", "Bing Jie", "Hong Chee"]
+def display_array(food):
+    for f in food:
+        print (f)
+
+display_array(fruits)
+display_array(student)
